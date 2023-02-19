@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/home/tahir/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/Task6.csproj",
+      "projectName": "Task6",
+      "projectPath": "/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/Task6.csproj",
+      "packagesPath": "/home/tahir/.nuget/packages/",
+      "outputPath": "/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/tahir/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

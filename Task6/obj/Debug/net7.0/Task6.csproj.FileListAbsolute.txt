@@ -1,0 +1,15 @@
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/bin/Debug/net7.0/Task6
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/bin/Debug/net7.0/Task6.deps.json
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/bin/Debug/net7.0/Task6.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/bin/Debug/net7.0/Task6.pdb
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/refint/Task6.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.pdb
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task6/obj/Debug/net7.0/ref/Task6.dll
