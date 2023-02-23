@@ -1,0 +1,15 @@
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/bin/Debug/net7.0/Task8
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/bin/Debug/net7.0/Task8.deps.json
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/bin/Debug/net7.0/Task8.runtimeconfig.json
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/bin/Debug/net7.0/Task8.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/bin/Debug/net7.0/Task8.pdb
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.csproj.AssemblyReference.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.AssemblyInfoInputs.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.AssemblyInfo.cs
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.csproj.CoreCompileInputs.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/refint/Task8.dll
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.pdb
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/Task8.genruntimeconfig.cache
+/home/tahir/Documents/GeekBrains/Курс 3. Введение в языки программирования_фев 2023/C#_Lessons/Task8/obj/Debug/net7.0/ref/Task8.dll
