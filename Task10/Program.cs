@@ -12,3 +12,4 @@ int n1 = Convert.ToInt32(Console.ReadLine());
 
 int result=n1%100/10;
 Console.WriteLine($"Результат: {result} вторая цифра числа {n1}");
+//Console.WriteLine(num/10%10);
