@@ -8,8 +8,14 @@
 
 Console.Clear();
 Console.Write("Введите трехзначное число: ");
-int n1 = Convert.ToInt32(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 
-int result=n1%100/10;
-Console.WriteLine($"Результат: {result} вторая цифра числа {n1}");
+while ((n < 100 || n > 999) && (n > -100 || n < -999))
+{
+    Console.Write("Неправильное значение!\nВведите трехзначное число: ");
+    n = Convert.ToInt32(Console.ReadLine());
+}
+
+int result = n % 100 / 10;
+Console.WriteLine($"Результат: {result} вторая цифра числа {n}");
 //Console.WriteLine(num/10%10);
