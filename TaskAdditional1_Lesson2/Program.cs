@@ -19,53 +19,81 @@
 // 2	1 2 3 4 5 6 7 0 8 9 10	            6
 
 
+//1-st option (цикл)
 Console.Clear();
-int[] numbers = new int[100];
-int max = 0;
+Console.WriteLine("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int max = num;
+int max2 = 0;
 
-for (int i = 0; i < 50; i++)
+while(num != 0)
 {
-    numbers[i] = new Random().Next(1,1000);
-}
-
-numbers[50] = 0;
-
-for (int i = 51; i < 100; i++)
-{
-    numbers[i] = new Random().Next(1,100);
-}
-
-for (int i = 0; i < 100; i++)
-{
-    Console.WriteLine($"{i} - {numbers[i]}");
-}
-
-for (int i = 0; numbers[i] != 0; i++)
-{
-    if(max < numbers[i])
+    num = Convert.ToInt32(Console.ReadLine());
+    int temp = 0;
+    if (max < num)
     {
-        max = numbers[i];
+        temp = max;
+        max = num;
+        max2 = temp;
+    }
+    else if (max2 < num)
+    {
+        max2 = num;
     }
 }
 
-Console.WriteLine($"Первый максимум: {max}");
+Console.WriteLine();
+Console.WriteLine($"Первый максимум = {max}");
+Console.WriteLine($"Второй максимум = {max2}");
 
-for (int i = 0; i < numbers.Length; i++)
-{
-    if(numbers[i] == max)
-    {
-        numbers[i] = 1;
-    }
-}
+//2-nd option (массив)
+// Console.Clear();
+// int[] numbers = new int[100];
+// int max = 0;
 
-max = numbers[0];
+// for (int i = 0; i < 50; i++)
+// {
+//     numbers[i] = new Random().Next(1,1000);
+// }
 
-for (int i = 0; numbers[i] != 0; i++)
-{
-    if(max < numbers[i])
-    {
-        max = numbers[i];
-    }
-}
+// numbers[50] = 0;
 
-Console.WriteLine($"Второй максимум: {max}");
+// for (int i = 51; i < 100; i++)
+// {
+//     numbers[i] = new Random().Next(1,100);
+// }
+
+// for (int i = 0; i < 100; i++)
+// {
+//     Console.WriteLine($"{i} - {numbers[i]}");
+// }
+
+// for (int i = 0; numbers[i] != 0; i++)
+// {
+//     if(max < numbers[i])
+//     {
+//         max = numbers[i];
+//     }
+// }
+
+// Console.WriteLine($"Первый максимум: {max}");
+
+// for (int i = 0; i < numbers.Length; i++)
+// {
+//     if(numbers[i] == max)
+//     {
+//         numbers[i] = 1;
+//     }
+// }
+
+// max = numbers[0];
+
+// for (int i = 0; numbers[i] != 0; i++)
+// {
+//     if(max < numbers[i])
+//     {
+//         max = numbers[i];
+//     }
+// }
+
+// Console.WriteLine($"Второй максимум: {max}");
